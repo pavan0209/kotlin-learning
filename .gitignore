@@ -1,0 +1,4 @@
+# Kotlin output
+*.class
+*.jar
+*.war
