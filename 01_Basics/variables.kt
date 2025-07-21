@@ -14,5 +14,5 @@ fun main() {
     val employeeCount = 20
     println("There are total $employeeCount employees in our company")    // String interpolation
 
-    println("New employees have been joined so current employee count is ${employeeCount + 5}.")
+    println("New employees have been joined so current employee count is ${employeeCount + 5}.") 
 }
