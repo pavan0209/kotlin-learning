@@ -12,7 +12,7 @@ fun main() {
     val age: Int? = readLine()?.toIntOrNull()
 
     if (age != null) {
-        println("You are $age years old.")
+        println("You are $age years old")
     } else {
         println("Invalid input!!")
     }
